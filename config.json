@@ -1,0 +1,7 @@
+{
+"apikey" : "{add your Digital Ocean API Key here}",
+"dropletID" : "{add your Digital Ocean Droplet ID here}",
+"url" : "https://api.digitalocean.com/v2/droplets/",
+"lgsize" : "s-4vcpu-8gb",
+"smsize" : "1gb"
+}
